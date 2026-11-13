@@ -1,6 +1,6 @@
 # Reentry Resume Builder
 
-A free resume builder for people coming home from prison, including after long sentences. It asks one question at a time, in plain language, and produces a resume that hiring software can read. It runs entirely in the browser: no account, no server, and nothing typed into it is sent anywhere or stored unless the person chooses to save it.
+A free resume builder for formerly incarcerated individuals, including those who served long sentences. It asks one question at a time, in plain language, and produces a resume that hiring software can read. It runs entirely in the browser: no account, no server, and nothing typed into it is sent anywhere or stored unless the person chooses to save it.
 
 Try it at https://olivercrocco.com/resume-builder/, or download `resume-builder.html` and open it in any browser. The single file works without the internet, so it can be shared on a USB drive or used on a laptop in a classroom.
 

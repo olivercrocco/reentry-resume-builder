@@ -29,7 +29,7 @@ let html = src
   )
   .replace(
     "<title>Resume Builder</title>",
-    '<title>Resume Builder</title>\n<meta name="description" content="A free resume builder for people coming home from prison. Works in the browser, saves nothing, and makes a Word file that hiring software can read.">'
+    '<title>Resume Builder</title>\n<meta name="description" content="A free resume builder for formerly incarcerated individuals. Works in the browser, saves nothing, and makes a Word file that hiring software can read.">'
   );
 
 if (html.includes("<script>") || /<script id=/.test(html)) throw new Error("inline script left in web build");
