@@ -43,4 +43,4 @@ The content lists sit near the top of the first script in `resume-builder.html`:
 
 MIT. See `LICENSE`.
 
-Built by Oliver S. Crocco, Louisiana State University.
+Built for formerly incarcerated individuals and the programs that support them, by Oliver S. Crocco, Louisiana State University.
