@@ -32,6 +32,9 @@ let html = src
     '<title>Resume Builder</title>\n<meta name="description" content="A free resume builder for formerly incarcerated individuals. Works in the browser, saves nothing, and makes a Word file that hiring software can read.">'
   );
 
+// Link back to the toolkit page on the website (the single offline file is left as is).
+html = html.replace(/(<p class="sub">[\s\S]*?<\/p>)/, "$1\n    <p class=\"sub\"><a href=\"/reentry/\" style=\"color:#abe2e8;font-weight:700\">\u2190 All reentry tools</a></p>");
+
 if (html.includes("<script>") || /<script id=/.test(html)) throw new Error("inline script left in web build");
 
 mkdirSync(outDir, { recursive: true });
