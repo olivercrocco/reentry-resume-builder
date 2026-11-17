@@ -4,7 +4,7 @@ A free resume builder for formerly incarcerated individuals, including those who
 
 Try it at https://olivercrocco.com/resume-builder/, or download `resume-builder.html` and open it in any browser. The single file works without the internet, so it can be shared on a USB drive or used on a laptop in a classroom.
 
-It was built for a pre-release employment skills course in Louisiana, for participants within about a month of release. The content is Louisiana-specific in places (the certification lists and colleges), and the rest applies anywhere in the United States.
+It was built for an employment skills course in a Louisiana reentry bridge program, which supports people for about a year after release. The content is Louisiana-specific in places (the certification lists and colleges), and the rest applies anywhere in the United States.
 
 ## What it does
 
